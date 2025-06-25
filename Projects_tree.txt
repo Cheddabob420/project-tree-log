@@ -1,0 +1,43 @@
+/home/cogy/Projects
+└── MicroHome
+    ├── Controllers
+    │   ├── ESP32
+    │   │   ├── ESP32-C3
+    │   │   │   ├── ESP32_GENERIC_C3-20250415-v1.25.0.app-bin
+    │   │   │   ├── ESP32_GENERIC_C3-20250415-v1.25.0.bin
+    │   │   │   ├── ESP32_GENERIC_C3-20250415-v1.25.0.elf
+    │   │   │   └── ESP32_GENERIC_C3-20250415-v1.25.0.map
+    │   │   └── ESP-WROOM-32
+    │   │       ├── ESP32_GENERIC-20250415-v1.25.0.bin
+    │   │       └── esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+    │   ├── RP2040
+    │   │   ├── Pico H
+    │   │   │   └── RPI_PICO-20250415-v1.25.0.uf2
+    │   │   ├── PicoW
+    │   │   │   └── RPI_PICO_W-20250415-v1.25.0.uf2
+    │   │   └── RP2040-GEEK
+    │   │       └── Rp2-pico-20210418-v1.15.7z
+    │   └── RP2350
+    │       ├── Pico2
+    │       │   ├── RPI_PICO2-20250415-v1.25.0.uf2
+    │       │   └── RPI_PICO2-RISCV-20250415-v1.25.0.uf2
+    │       ├── Pico2W
+    │       │   └── RPI_PICO2_W-20250415-v1.25.0.uf2
+    │       ├── RP2350-GEEK
+    │       │   ├── lv_micropython-master.zip
+    │       │   └── RPI_PICO2-20240809-v1.24.0.zip
+    │       └── RP2350-LCD-1.47-B
+    │           ├── 800px-RP2350-LCD-1.47-B-details-inter.jpg
+    │           └── RPI_PICO2-20250415-v1.25.0.zip
+    ├── Lib
+    │   ├── LCD
+    │   │   ├── ESP32-video-streaming-USB-main.zip
+    │   │   ├── esp32-WROOM-32UE-i2c_spi_driver-main.zip
+    │   │   └── st7789py_mpy-master.zip
+    │   ├── LVGL
+    │   │   └── lv_micropython-master (1).zip
+    │   └── Starter Kit Tutorials
+    │       └── esp32-starter-kit-main.zip
+    └── Python
+
+20 directories, 21 files
